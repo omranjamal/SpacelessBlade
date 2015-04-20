@@ -1,7 +1,7 @@
 <?php 
 namespace solidew\SpacelessBlade;
 
-class SpacelessBladeProvider extends Illuminate\Support\ServiceProvider
+class SpacelessBladeProvider extends \Illuminate\Support\ServiceProvider
 {
     public function boot()
     {

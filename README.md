@@ -33,7 +33,7 @@ in your working directory. Or, you could also add it to your composer.json manua
 ```JSON
 {
     "require": {
-        "solidew/spaceless-blade":"dev-master"
+        "solidew/spaceless-blade":"~1.0"
     }
 }
 ```
