@@ -1,0 +1,19 @@
+{
+    "name": "solidew/spaceless-blade",
+    "description": "Adds the @spaceless tag to Blade. (works like in Twig)",
+    "type": "library",
+    "keywords": ["spaceless", "laravel", "blade", "twig"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Omran Jamal",
+            "email": "o.jamal97@gmail.com",
+            "homepage": "http://about.me/omran.jamal"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "solidew\\SpacelessBlade\\": "src/"
+        }
+    }
+}
