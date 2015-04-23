@@ -13,8 +13,8 @@ In twig you could do:
 Do you miss [Twig](http://twig.sensiolabs.org/doc/tags/spaceless.html)'s 
 `{% spaceless %}` tag while working with Laravel's Blade?
 
-But now, with this package you can do this in Laravel too (without using Twig, of course).
-
+With this package you can do this in Laravel's Blade too (without using Twig, of course).
+Example:
 ```blade
 @spaceless
     <div>
@@ -33,7 +33,7 @@ in your working directory. Or, you could also add it to your composer.json manua
 ```JSON
 {
     "require": {
-        "solidew/spaceless-blade":"~1.0"
+        "solidew/spaceless-blade":"1.0.1"
     }
 }
 ```
