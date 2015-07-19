@@ -27,7 +27,7 @@ Example:
 ### Get the Package
 You can get the package easily with Composer by running
 ```
-composer require solidew/spaceless-blade
+composer require hedronium/spaceless-blade
 ```
 in your working directory. Or, you could also add it to your composer.json manually like
 ```JSON

@@ -15,5 +15,6 @@
         "psr-4": {
             "solidew\\SpacelessBlade\\": "src/"
         }
-    }
+    },
+    "replace": "solidew/spaceless-blade"
 }
