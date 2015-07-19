@@ -16,5 +16,7 @@
             "solidew\\SpacelessBlade\\": "src/"
         }
     },
-    "replace": "solidew/spaceless-blade"
+    "replace": [
+        "solidew/spaceless-blade"
+    ]
 }
