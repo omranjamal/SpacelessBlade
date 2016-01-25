@@ -25,12 +25,12 @@ Example:
 
 ## Installation
 ### Get the Package
-For **Laravel 5** get version 2 or above, by adding the following lines to composer.json
+For **Laravel 5.1** or above, get version 2, by adding the following lines to composer.json
 ```
 "hedronium/spaceless-blade": "~2.0"
 ```
 
-For **Laravel 4** get version 1 or above, by adding the following lines to composer.json
+For **Laravel 4** or above, get version 1 with latest patches, by adding the following lines to composer.json
 ```
 "hedronium/spaceless-blade": "~1.0"
 ```
