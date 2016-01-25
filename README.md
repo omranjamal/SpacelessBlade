@@ -25,19 +25,16 @@ Example:
 
 ## Installation
 ### Get the Package
-You can get the package easily with Composer by running
+For **Laravel 5** get version 2 or above, by adding the following lines to composer.json
 ```
-composer require hedronium/spaceless-blade
+"hedronium/spaceless-blade": "~2.0"
 ```
-in your working directory. Or, you could also add it to your composer.json manually like
-```JSON
-{
-    "require": {
-        "hedronium/spaceless-blade":"1.0.2"
-    }
-}
+
+For **Laravel 4** get version 1 or above, by adding the following lines to composer.json
 ```
-and run `composer update`
+"hedronium/spaceless-blade": "~1.0"
+```
+
 
 ### Register the Service Provider
 open up your `app.php` in your `config` folder, and add the following line to
