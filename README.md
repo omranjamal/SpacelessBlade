@@ -1,4 +1,6 @@
 # SpacelessBlade
+[![Latest Stable Version](https://poser.pugx.org/hedronium/spaceless-blade/v/stable)](https://packagist.org/packages/hedronium/spaceless-blade)
+[![License](https://poser.pugx.org/hedronium/spaceless-blade/license)](https://packagist.org/packages/hedronium/spaceless-blade)
 [![Total Downloads](https://poser.pugx.org/hedronium/spaceless-blade/downloads)](https://packagist.org/packages/hedronium/spaceless-blade)
 
 Adds a @spaceless tag to Laravel's Blade templating engine.
