@@ -1,4 +1,6 @@
 # SpacelessBlade
+[![Total Downloads](https://poser.pugx.org/hedronium/spaceless-blade/downloads)](https://packagist.org/packages/hedronium/spaceless-blade)
+
 Adds a @spaceless tag to Laravel's Blade templating engine.
 
 In twig you could do:
