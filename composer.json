@@ -16,6 +16,13 @@
             "hedronium\\SpacelessBlade\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "hedronium\\SpacelessBlade\\SpacelessBladeProvider"
+            ]
+        }
+    },
     "replace": {
         "solidew/spaceless-blade": "*"
     }

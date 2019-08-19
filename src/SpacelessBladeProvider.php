@@ -1,5 +1,7 @@
-<?php 
+<?php
+
 namespace hedronium\SpacelessBlade;
+
 use Blade;
 
 class SpacelessBladeProvider extends \Illuminate\Support\ServiceProvider
@@ -16,6 +18,4 @@ class SpacelessBladeProvider extends \Illuminate\Support\ServiceProvider
             return "<?php echo preg_replace('/>\\s+</', '><', ob_get_clean()); ?>";
         });
     }
-
-    public function register(){}
 }
