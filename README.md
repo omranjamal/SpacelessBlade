@@ -27,6 +27,11 @@ Example:
 @endspaceless
 ```
 
+Example Output:
+```html
+<div><strong>foo</strong></div>
+```
+
 ## Installation
 ### Get the Package
 For **Laravel 5.1** or above, get version 2, by adding the following lines to composer.json
@@ -41,8 +46,7 @@ For **Laravel 4** or above, get version 1 with latest patches, by adding the fol
 
 
 ### Register the Service Provider
-open up your `app.php` in your `config` folder, and add the following line to
-your `providers` list like:
+For **Laravel 5.4** and below, open up your `app.php` in your `config` folder, and add the following line to your `providers` list like:
 
 ```
 'providers' => array(
